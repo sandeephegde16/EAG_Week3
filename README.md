@@ -2,6 +2,9 @@
 
 A from-scratch AI agent that analyses company quarterly earnings call transcripts and produces a structured investment report — derived thesis, KPIs, red flags, Hold/Trim/Accumulate decision, and next quarter watchlist.
 
+## Demo
+https://www.youtube.com/watch?v=Jg1XxV50MYc
+
 ## What it does
 
 Feed it a concall transcript (PDF or TXT) and a company name. It runs 8 analysis tools in sequence, orchestrated by Claude, and prints a full investment analysis to the terminal.
